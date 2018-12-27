@@ -1,4 +1,4 @@
-make_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.0)
 project(CMakeExamples)
 
 option(TARGET_SOURCES "Build with target_sources" ON)
