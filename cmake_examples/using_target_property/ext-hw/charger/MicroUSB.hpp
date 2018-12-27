@@ -1,0 +1,4 @@
+#ifndef EXT_HW_MICRO_USB_HPP_
+#define EXT_HW_MICRO_USB_HPP_
+
+#endif  // EXT_HW_MICRO_USB_HPP_
